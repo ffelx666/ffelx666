@@ -4,7 +4,7 @@
 - 💞️ I’m currently focusing on React, JavaScript, HTML, CSS, Bootstrap.
 - 📫 Proven strength and drive in group projects. Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
 
-- Ömer Yasin Demir
+<h1>Ömer Yasin Demir</h1>
 
 <!---
 omeryasindemir/omeryasindemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
